@@ -11,3 +11,5 @@ Description of columns in the file:
   7 summary - summary of the review
   8 unixReviewTime - time of the review (unix time)
   9 reviewTime - time of the review (raw)
+
+Source : https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
